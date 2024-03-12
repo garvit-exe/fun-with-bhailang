@@ -1,14 +1,14 @@
 hi bhai
 
-    bol bhai "As-Salaam-Alaikum";
+    bol bhai "Hello World";
 
     bhai ye hai a = 0;
 
     jab tak bhai (a < 108) {
-        bol bhai "Ram Ram" + " "  + (a + 1);
+        bol bhai "For loop: Statement " + (a + 1);
         a += 1;
     }
 
-    bol bhai "Khuda Hafiz";
+    bol bhai "Bye World";
 
 bye bhai
